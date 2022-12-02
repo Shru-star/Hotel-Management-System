@@ -1,4 +1,7 @@
-HOTEL MANAGEMENT SYSTEM
-THIS IS CODE FOR C++ MICROPROJECT
+**HOTEL MANAGEMENT SYSTEM**
+
+Hey!..This is my microproject in diploma in CM3I 
+
+
 
 
